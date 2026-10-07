@@ -248,6 +248,10 @@ Many users ask about the differences between the open-source and premium version
 
 👉 *For more details on upgrading to the Premium tier, visit [uupm.cc](https://uupm.cc).*
 
+## Before/after example
+
+A live before/after built with this skill and hosted on Vibe Rooster: a plain ops dashboard ([before](https://skill-fixture-before.theroost.dev?vr_gallery=1)) restyled from the design system UI UX Pro Max generated for it ([after](https://ui-ux-pro-max-after.theroost.dev?vr_gallery=1)).
+
 ## Installation
 
 ### Using Claude Marketplace (Claude Code)
