@@ -400,7 +400,7 @@ Just mention your preferred stack in the prompt, or let it default to HTML + Tai
 
 A plain ops dashboard ([before](https://skill-fixture-before.theroost.dev)) restyled using only the design system UI UX Pro Max generated for it ([after](https://ui-ux-pro-max-after.theroost.dev)), from `search.py "internal operations dashboard" --design-system --density 8 --motion 3 --variance 4`.
 
-*Illustrative, not a benchmark.* An author-supplied example made and hosted by Vibe Rooster (Tim Panagos), not by this project's maintainers. Not an official demo or a runtime test of the skill.
+*Illustrative, community-contributed example; not an official demo, benchmark, or runtime test of the skill.*
 
 ## Design System Command (Advanced)
 
